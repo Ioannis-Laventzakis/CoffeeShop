@@ -1,3 +1,5 @@
+package com;
+
 import java.util.Scanner;
 
 
@@ -6,8 +8,8 @@ public class Aroma {
          Scanner scanner = new Scanner(System.in);
          double totalCost = 0.0;
 
-        System.out.println("Welcome to the Aroma Coffee Shop!");
-        System.out.println("Menu:");
+        System.out.println("Welcome to the com.Aroma Coffee Shop!");
+        System.out.println("com.Menu:");
         System.out.println("1. Espresso - $2.50");
         System.out.println("2. Cappuccino - $3.00");
         System.out.println("3. Latte - 3.50");
